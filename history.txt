@@ -1,0 +1,4 @@
+format/datefmt - change history
+
+== 1.0.0 ==
+ * addon copied from packages/misc/datefmt
