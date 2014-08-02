@@ -6,10 +6,10 @@ DESCRIPTION=: 0 : 0
 Various date formatting functions.
 )
 
-VERSION=: '1.0.12'
+VERSION=: '1.0.13'
 
 FILES=: 0 : 0
 datefmt.ijs
 )
 
-RELEASE=: 'j802'
+RELEASE=: 'j802 j803'
